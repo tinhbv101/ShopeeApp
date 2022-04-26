@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254541112602",
+    "firebase_url": "https://shopeeapp-b1352-default-rtdb.firebaseio.com",
+    "project_id": "shopeeapp-b1352",
+    "storage_bucket": "shopeeapp-b1352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254541112602:android:1b959da0ee7f7e162a38a3",
+        "android_client_info": {
+          "package_name": "com.hcmute.shopeeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254541112602-te0vns2tkph3rt2m93q67u06nci9bscr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBNhAgXT1IngTthhZ1-Efotn5bEyoRl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254541112602-te0vns2tkph3rt2m93q67u06nci9bscr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
