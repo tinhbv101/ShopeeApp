@@ -13,6 +13,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShopeeApp">
         <activity
+            android:name=".Activity.User.SearchResult"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.User.ProductDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.User.HelpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.User.ForgotPassword"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.User.ChangeLanguage"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.User.CartDetails"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.User.BillHistory"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.User.AccountSettingsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.User.AccountInfoActivity"
+            android:exported="true" />
+        <activity
             android:name=".Activity.Admin.AdminRoleActivity"
             android:exported="true" />
         <activity
