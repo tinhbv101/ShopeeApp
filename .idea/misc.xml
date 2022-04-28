@@ -13,6 +13,28 @@
         <entry key="..\:/1D/HocTap/AndroidStudio/newFP/ShopeeApp/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/1D/HocTap/AndroidStudio/newFP/ShopeeApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/1D/HocTap/AndroidStudio/newFP/ShopeeApp/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_account_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_account_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_admin_discount.xml" value="0.1" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_admin_product.xml" value="0.264" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_admin_role.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_admin_store.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_bill_history.xml" value="0.13722826086956522" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_cart_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_change_language.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_help.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_product_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_product_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/activity_search_result.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/bill_item.xml" value="0.11302083333333333" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/fragment_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/fragment_discount.xml" value="0.11302083333333333" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/fragment_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/fragment_menu.xml" value="0.11302083333333333" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/fragment_message_box.xml" value="0.11302083333333333" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/fragment_notification.xml" value="0.11302083333333333" />
+        <entry key="..\:/HCMUTE/Nam 3 - HK2/LapTrinhDiDong/shopeeGit/ShopeeApp/app/src/main/res/layout/product_item.xml" value="0.11302083333333333" />
       </map>
     </option>
   </component>
