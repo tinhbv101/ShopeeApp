@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Activity.Admin.AdminStoreActivity">
+    tools:context=".activity.admin.AdminStoreActivity">
 
     <LinearLayout
         android:id="@+id/topNavbar"
@@ -31,7 +31,7 @@
             android:ems="10"
             android:gravity="center"
             android:padding="5dp"
-            android:text="Admin Product"
+            android:text="Admin Store"
             android:textColor="#333"
             android:textColorHint="#ffffff"
             android:textSize="18sp"
@@ -70,7 +70,7 @@
                 android:layout_height="wrap_content">
 
                 <Button
-                    android:id="@+id/btnChoosePhoto"
+                    android:id="@+id/btnStoreChoosePhoto"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -84,26 +84,6 @@
                     android:textSize="14dp"
                     android:textStyle="bold" />
             </LinearLayout>
-
-            <com.google.android.material.textfield.TextInputLayout
-                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="4dp"
-                android:layout_marginBottom="2dp"
-                android:hint="ID Store"
-                app:endIconMode="clear_text"
-                app:hintTextAppearance="@style/TextAppearance.AppCompat.Small"
-                app:hintTextColor="@color/theme_color"
-                app:startIconContentDescription="@string/fullName"
-                app:startIconDrawable="@drawable/ic_account">
-
-                <com.google.android.material.textfield.TextInputEditText
-                    android:id="@+id/txtAdIdStore"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:inputType="text" />
-            </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputLayout
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"

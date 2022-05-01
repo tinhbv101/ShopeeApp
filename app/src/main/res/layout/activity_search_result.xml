@@ -7,7 +7,7 @@
     android:focusable="true"
     android:focusableInTouchMode="true"
     android:orientation="vertical"
-    tools:context=".Activity.User.SearchResult">
+    tools:context=".activity.user.SearchResult">
 
     <LinearLayout
         android:id="@+id/topNavbar"

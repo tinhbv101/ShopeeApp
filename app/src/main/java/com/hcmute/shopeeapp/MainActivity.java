@@ -6,9 +6,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.content.res.Resources;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -21,12 +18,9 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.hcmute.shopeeapp.Activity.LoginActivity;
+import com.hcmute.shopeeapp.activity.LoginActivity;
 import com.hcmute.shopeeapp.entity.UserEntity;
 import com.hcmute.shopeeapp.util.SessionManagerUtil;
-
-import java.net.MalformedURLException;
-import java.net.URL;
 
  public class MainActivity extends AppCompatActivity {
 

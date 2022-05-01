@@ -1,4 +1,4 @@
-package com.hcmute.shopeeapp.Activity.Admin;
+package com.hcmute.shopeeapp.activity.admin;
 
 import androidx.appcompat.app.AppCompatActivity;
 

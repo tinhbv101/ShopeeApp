@@ -1,4 +1,4 @@
-package com.hcmute.shopeeapp.Activity;
+package com.hcmute.shopeeapp.activity;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -10,23 +10,18 @@ import android.annotation.SuppressLint;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.content.pm.PackageManager;
-import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.android.gms.tasks.Continuation;
-import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
-import com.google.android.gms.tasks.Task;
 import com.google.android.material.chip.ChipGroup;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
@@ -37,18 +32,16 @@ import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.OnProgressListener;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
-import com.hcmute.shopeeapp.DTO.SignUpDTO;
+import com.hcmute.shopeeapp.dto.SignUpDTO;
 import com.hcmute.shopeeapp.R;
 import com.hcmute.shopeeapp.entity.AccountEntity;
 import com.hcmute.shopeeapp.entity.UserEntity;
 import com.hcmute.shopeeapp.firebase.AccountFirebase;
 import com.hcmute.shopeeapp.util.AuthenticationUtil;
-import com.hcmute.shopeeapp.util.ImageUtil;
 
 import org.jetbrains.annotations.NotNull;
 
 import java.time.LocalDateTime;
-import java.util.HashMap;
 import java.util.UUID;
 
 
@@ -92,13 +85,6 @@ public class SignUpActivity extends AppCompatActivity {
         addControl();
         addEvent();
 
-
-
-
-
-
-
-
     }
 
     public void addControl(){
@@ -114,7 +100,7 @@ public class SignUpActivity extends AppCompatActivity {
         layoutConfirmPassword = findViewById(R.id.layoutConfirmPassword);
         chipGroupSex = findViewById(R.id.chipGroupSex);
         imgAvt = findViewById(R.id.imgAvt);
-        btnChoosePhoto = findViewById(R.id.btnChoosePhoto);
+        btnChoosePhoto = findViewById(R.id.btnStoreChoosePhoto);
         btnSignUp = findViewById(R.id.btnSignUp);
         accountFirebase = new AccountFirebase(this);
         // get the Firebase  storage reference

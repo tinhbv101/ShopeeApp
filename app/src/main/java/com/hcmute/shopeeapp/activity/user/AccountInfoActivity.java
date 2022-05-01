@@ -1,4 +1,4 @@
-package com.hcmute.shopeeapp.Activity.User;
+package com.hcmute.shopeeapp.activity.user;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,11 +6,11 @@ import android.os.Bundle;
 
 import com.hcmute.shopeeapp.R;
 
-public class SearchResult extends AppCompatActivity {
+public class AccountInfoActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_search_result);
+        setContentView(R.layout.activity_account_info);
     }
 }

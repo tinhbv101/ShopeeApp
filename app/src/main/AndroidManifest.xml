@@ -13,55 +13,55 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShopeeApp">
         <activity
-            android:name=".Activity.User.SearchResult"
+            android:name=".activity.user.SearchResult"
             android:exported="false" />
         <activity
-            android:name=".Activity.User.ProductDetail"
+            android:name=".activity.user.ProductDetail"
             android:exported="false" />
         <activity
-            android:name=".Activity.User.HelpActivity"
+            android:name=".activity.user.HelpActivity"
             android:exported="false" />
         <activity
-            android:name=".Activity.User.ForgotPassword"
+            android:name=".activity.user.ForgotPassword"
             android:exported="false" />
         <activity
-            android:name=".Activity.User.ChangeLanguage"
+            android:name=".activity.user.ChangeLanguage"
             android:exported="true" />
         <activity
-            android:name=".Activity.User.CartDetails"
+            android:name=".activity.user.CartDetails"
             android:exported="true" />
         <activity
-            android:name=".Activity.User.BillHistory"
+            android:name=".activity.user.BillHistory"
             android:exported="true" />
         <activity
-            android:name=".Activity.User.AccountSettingsActivity"
+            android:name=".activity.user.AccountSettingsActivity"
             android:exported="true" />
         <activity
-            android:name=".Activity.User.AccountInfoActivity"
+            android:name=".activity.user.AccountInfoActivity"
             android:exported="true" />
         <activity
-            android:name=".Activity.Admin.AdminRoleActivity"
+            android:name=".activity.admin.AdminRoleActivity"
             android:exported="true" />
         <activity
-            android:name=".Activity.Admin.AdminStoreActivity"
+            android:name=".activity.admin.AdminStoreActivity"
             android:exported="true" />
         <activity
-            android:name=".Activity.Admin.ProductImageActivity"
+            android:name=".activity.admin.ProductImageActivity"
             android:exported="true" />
         <activity
-            android:name=".Activity.Admin.AdminDiscountActivity"
+            android:name=".activity.admin.AdminDiscountActivity"
             android:exported="true" />
         <activity
-            android:name=".Activity.Admin.AdminProductActivity"
+            android:name=".activity.admin.AdminProductActivity"
             android:exported="true" />
         <activity
-            android:name=".Activity.SignUpActivity"
+            android:name=".activity.SignUpActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true" />
         <activity
-            android:name=".Activity.LoginActivity"
+            android:name=".activity.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

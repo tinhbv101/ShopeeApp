@@ -1,4 +1,4 @@
-package com.hcmute.shopeeapp.Activity.User;
+package com.hcmute.shopeeapp.activity.user;
 
 import androidx.appcompat.app.AppCompatActivity;
 

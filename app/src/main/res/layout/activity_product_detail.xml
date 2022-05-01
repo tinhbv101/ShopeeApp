@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/frame_product_detail"
-    tools:context=".Activity.User.ProductDetail">
+    tools:context=".activity.user.ProductDetail">
 
     <LinearLayout
         android:layout_width="match_parent"

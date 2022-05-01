@@ -1,4 +1,4 @@
-package com.hcmute.shopeeapp.DTO;
+package com.hcmute.shopeeapp.dto;
 
 public class SignUpDTO {
     public static Boolean FLAG = false;

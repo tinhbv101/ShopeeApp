@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Activity.User.AccountInfoActivity">
+    tools:context=".activity.user.AccountInfoActivity">
 
     <LinearLayout
         android:id="@+id/topNavbar"
@@ -85,7 +85,7 @@
                     android:textStyle="bold" />
 
                 <Button
-                    android:id="@+id/btnChoosePhoto"
+                    android:id="@+id/btnStoreChoosePhoto"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
